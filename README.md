@@ -68,3 +68,6 @@ Repos have settings. Don't touch the red stuff ;-)
 
 #### Troubleshooting
 Here's a helpful resource that describes how to deal with common problems: https://dangitgit.com/
+
+#### Contact Us
+If you have questions regarding GitHub, you can contact us also by texting us
