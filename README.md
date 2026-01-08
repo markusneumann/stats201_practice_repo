@@ -8,10 +8,6 @@ There's also a [version with a graphical UI](https://desktop.github.com/download
 ### Authentication
 Follow the instructions [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys). There is one version for each of Windows/Mac/Linux. You probably won't have a key yet, so then go through 'Generate new SSH key'. Either way, then do 'Add a new SSH key'. Finally, 'Test your SSH connection'.
 
-### Memory
-
-DON'T FORGET TO POST REGULARLY
-
 ### Basic use
 
 #### Create a repository
